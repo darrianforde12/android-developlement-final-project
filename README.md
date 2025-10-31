@@ -1,7 +1,7 @@
 # android-developlement-final-project
 This is the final project of my Android Devlopment 2 course - De' Patisserie Cakes N' Desserts.
 
-Introduction & Purpose 
+ 
 De’ Patisserie Cakes N Desserts is a business whose goal is to spread love and joy 
 through its sweet and tasty treats. Using Android Studio and writing in the Java Language, 
 this application was created to allow the clients of De’ Patisserie Cakes N Desserts to easily 
